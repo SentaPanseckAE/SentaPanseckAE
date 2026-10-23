@@ -74,8 +74,11 @@ Life  [██░░░░░░░░] 20%    Stamina  [█████░░░
 
 **Open for:** Open-source contributions · Hackathons & group raids · Coffee chats & tech mentorship
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-B967FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-kumar-209811374/) [![GitHub](https://img.shields.io/badge/GitHub-Party_Profile-39FF14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SentaPanseckAE) [![Discord](https://img.shields.io/badge/Discord-Message-B967FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/615491285964554261)
-[![Email](https://img.shields.io/badge/Email-Send_a_Message-FFD93D?style=for-the-badge&logo=gmail&logoColor=111111)](mailto:kumararpit.nighthouse@gmail.com) [![Spotify](https://img.shields.io/badge/Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31koktkprsvqr2mmzl4jtvgilr3m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-B967FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-kumar-209811374/) 
+[![GitHub](https://img.shields.io/badge/GitHub-Party_Profile-39FF14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SentaPanseckAE) 
+[![Discord](https://img.shields.io/badge/Discord-Message-B967FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/615491285964554261) \
+[![Email](https://img.shields.io/badge/Email-Send_a_Message-FFD93D?style=for-the-badge&logo=gmail&logoColor=111111)](mailto:kumararpit.nighthouse@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31koktkprsvqr2mmzl4jtvgilr3m)
 [![Steam](https://img.shields.io/badge/Steam-Profile-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198681711425) \
 [![Twitch](https://img.shields.io/badge/Twitch-Follow-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/delir1ousxd)
 
