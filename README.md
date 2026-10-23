@@ -3,7 +3,7 @@
 
 # PLAYER 0: Panseck HAS JOINED THE GAME!
 
-### Level 05 Mage
+[![DevDex](https://devdex.tech/badge/SentaPanseckAE)](https://devdex.tech/SentaPanseckAE)
 
 #### Mystic Art of Python
 
