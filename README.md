@@ -54,17 +54,17 @@ Life  [██░░░░░░░░] 20%    Stamina  [█████░░░
 ### 📜 QUEST 01 — Multimodal Edge-AI Healthcare Diagnostic Assistant
 
 >🎯 **Objective:** A clinical decision-support system that pairs medical imaging with electronic health records using a Vision-Language Model to generate explainable risk scores and preliminary diagnostics.\
-💎 **Loot:** `Python` · `PyTorch` · `Hugging Face Transformers` · `Streamlit`\
+💎 **Loot:** `Python` · `PyTorch` · `Hugging Face Transformers` · `Streamlit`
 
 ### 📜 QUEST 02 — Real-Time Financial Fraud Detection & Graph Network
 
 >🎯 **Objective:** A transaction monitoring pipeline that uses Graph Neural Networks to map account interactions and instantly flag hidden multi-hop financial fraud rings.\
-💎 **Loot:** `Python` · `PyTorch Geometric` · `NetworkX` · `Scikit-Learn`\
+💎 **Loot:** `Python` · `PyTorch Geometric` · `NetworkX` · `Scikit-Learn`
 
 ### 📜 QUEST 03 — Geospatial Wildfire Risk & Environmental Predictor
 
 >🎯 **Objective:** A spatial data science pipeline that processes satellite imagery and weather time-series data to predict high-risk wildfire zones and visualize them on an interactive analytics dashboard.\
-💎 **Loot:** `Python` · `Rasterio` · `GeoPandas` · `Scikit-Learn` · `Streamlit`\
+💎 **Loot:** `Python` · `Rasterio` · `GeoPandas` · `Scikit-Learn` · `Streamlit`
 
 ## ▄▀ Co-Op / Multiplayer Mode ▀▄
 
