@@ -98,11 +98,11 @@ Life  [██░░░░░░░░] 20%    Stamina  [█████░░░
 
 <div align="center">
 
-![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=SentaPanseckAE)\
+![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=SentaPanseckAE)
   
-![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=SentaPanseckAE&cardType=langs)\
+![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=SentaPanseckAE&cardType=langs)
   
-![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=SentaPanseckAE&cardType=streak)\
+![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=SentaPanseckAE&cardType=streak)
   
 ![Coin counter](https://img.shields.io/badge/COINS-020-FFD93D?style=for-the-badge&labelColor=1b1b2f)
 
