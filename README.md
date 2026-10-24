@@ -15,7 +15,7 @@
 ## ▄▀ Character Stats ▀▄
 
 ``` Personality: Chaos & Order
-Life  [██░░░░░░░░] 20%    Stamina  [█████░░░░░] 50%    EXP  [███░░░░░░░] 30%
+Life  [▮▮▯▯▯▯▯▯▯▯] 20%    Stamina  [▮▮▮▮▮▯▯▯▯▯] 50%    EXP  [▮▮▮▯▯▯▯▯▯▯] 30%
 ```
 
 - 🎓 **Class / Guild:** Bachelors of Computer Application • University of Lucknow
